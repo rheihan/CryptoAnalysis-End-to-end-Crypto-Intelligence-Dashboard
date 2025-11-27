@@ -1,0 +1,12 @@
+pandas
+numpy==1.26.4
+requests
+matplotlib
+seaborn
+plotly
+scipy
+pmdarima
+prophet==1.1.5
+streamlit
+python-dateutil
+streamlit run dashboard/streamlit_app.py
